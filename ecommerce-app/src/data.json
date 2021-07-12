@@ -1,0 +1,18 @@
+{
+    "products":[
+        {"_id":"roll1",
+         "title":"Cinammon Roll",
+         "description":"Decription for Cinammon Roll",
+         "price":19,
+         "image":"/images/cinammon.jpg",
+         "availableSizes":["XL","L"]
+        },
+        {"_id":"Sourdough",
+         "title":"Sourdough",
+         "description":"Decription for SourDough",
+         "price":29,
+         "image":"/images/sourdough.jpg",
+         "availableSizes":["XL","L"]
+        }
+    ]
+}
